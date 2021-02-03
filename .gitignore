@@ -14,6 +14,9 @@
 # IntelliJ
 .idea
 
+# secrets
+/public/token.txt
+
 # misc
 .DS_Store
 .env.local
